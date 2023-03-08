@@ -2,7 +2,7 @@
   "name": "my-expense-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{github-patelsanket864}.github.io/{my-expense-app}",
+  "homepage": "http://github-patelsanket864.github.io/my-expense-app",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
