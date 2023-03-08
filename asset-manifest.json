@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-expense-app/static/css/main.f2f7b8c1.css",
+    "main.js": "/my-expense-app/static/js/main.41c80671.js",
+    "static/js/787.be73d8e4.chunk.js": "/my-expense-app/static/js/787.be73d8e4.chunk.js",
+    "index.html": "/my-expense-app/index.html",
+    "main.f2f7b8c1.css.map": "/my-expense-app/static/css/main.f2f7b8c1.css.map",
+    "main.41c80671.js.map": "/my-expense-app/static/js/main.41c80671.js.map",
+    "787.be73d8e4.chunk.js.map": "/my-expense-app/static/js/787.be73d8e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2f7b8c1.css",
+    "static/js/main.41c80671.js"
+  ]
+}
